@@ -1,0 +1,16 @@
+de\pixeltyles\turfexcb\Database\DataBaseManager.class
+de\pixeltyles\turfexcb\listener\ChatManager.class
+de\pixeltyles\turfexcb\listener\JobInventoryListener.class
+de\pixeltyles\turfexcb\TurfexCB.class
+de\pixeltyles\turfexcb\listener\ScoreBoardListener$1.class
+de\pixeltyles\turfexcb\listener\JobsListener.class
+de\pixeltyles\turfexcb\commands\JobCommand.class
+de\pixeltyles\turfexcb\listener\JobProgressManager.class
+de\pixeltyles\turfexcb\JobSystem\JobManager.class
+de\pixeltyles\turfexcb\listener\ConnectionListener.class
+de\pixeltyles\turfexcb\listener\JobsListener$1.class
+de\pixeltyles\turfexcb\commands\CoinsCommand.class
+de\pixeltyles\turfexcb\commands\DiscordCommand.class
+de\pixeltyles\turfexcb\commands\PayCommand.class
+de\pixeltyles\turfexcb\commands\SuperCoinsCommand.class
+de\pixeltyles\turfexcb\listener\ScoreBoardListener.class

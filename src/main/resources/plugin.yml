@@ -1,0 +1,16 @@
+name: TurfexCB
+version: '${project.version}'
+main: de.pixeltyles.turfexcb.TurfexCB
+api-version: '1.20'
+
+commands:
+  coins:
+    permission-message: §cPermission §8| §cDazu hast du keine Rechte.
+    permission: coins.use
+  job:
+    aliases: jobs
+  pay:
+  supercoins:
+    permission: supercoins.use
+  discord:
+    aliases: dc
