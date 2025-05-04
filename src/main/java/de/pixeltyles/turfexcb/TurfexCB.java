@@ -65,6 +65,7 @@ public class TurfexCB extends JavaPlugin {
         getCommand("job").setExecutor(new JobCommand(jobManager));
         getCommand("supercoins").setExecutor(new SuperCoinsCommand(this, dbManager));
         getCommand("discord").setExecutor(new DiscordCommand());
+        getCommand("clear").setExecutor(new ClearCommand());
 
         Bukkit.getConsoleSender().sendMessage("§a[Turfex] Plugin aktiviert.");
     }
